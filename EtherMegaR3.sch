@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="6.5.0">
+<eagle version="8.5.1">
 <drawing>
 <settings>
-<setting alwaysvectorfont="yes"/>
+<setting alwaysvectorfont="no"/>
+<setting keepoldvectorfont="yes"/>
 <setting verticaltext="up"/>
 </settings>
 <grid distance="0.1" unitdist="inch" unit="inch" style="lines" multiple="1" display="no" altdistance="0.01" altunitdist="inch" altunit="inch"/>
@@ -14251,9 +14252,9 @@ Standard 2-pin 0.1" header. Use with straight break away headers (SKU : PRT-0011
 <text x="33.02" y="175.26" size="1.778" layer="94">800mA</text>
 <text x="261.62" y="96.52" size="1.778" layer="94">In Circuit Serial Programming</text>
 <text x="261.62" y="48.26" size="1.778" layer="94">micro SD Card Slot</text>
-<text x="396.24" y="12.7" size="2.794" layer="94">Freetronics EtherMega (Arduino Compatible)</text>
-<text x="469.9" y="6.858" size="1.778" layer="94">V3.1 (2015-06-03)</text>
-<text x="423.926" y="6.858" size="1.778" layer="94">www.freetronics.com/em</text>
+<text x="396.24" y="12.7" size="2.794" layer="94">SuperHouse EtherMega (Arduino Compatible)</text>
+<text x="469.9" y="6.858" size="1.778" layer="94">V3.1 (2017-12-21)</text>
+<text x="423.926" y="6.858" size="1.778" layer="94">www.superhouse.tv/em</text>
 <text x="396.24" y="6.858" size="1.778" layer="94">SKU: EM</text>
 <text x="7.62" y="106.68" size="1.778" layer="94">Ethernet Module with PoE</text>
 <text x="139.7" y="149.86" size="1.778" layer="94">&lt; 4.38 Vrst, push-pull output</text>
@@ -15388,8 +15389,8 @@ Standard 2-pin 0.1" header. Use with straight break away headers (SKU : PRT-0011
 <segment>
 <wire x1="398.78" y1="83.82" x2="386.08" y2="83.82" width="0.1524" layer="91"/>
 <wire x1="386.08" y1="83.82" x2="386.08" y2="78.74" width="0.1524" layer="91"/>
-<wire x1="375.92" y1="88.9" x2="378.46" y2="86.36" width="0.1524" layer="91"/>
-<wire x1="378.46" y1="86.36" x2="378.46" y2="78.74" width="0.1524" layer="91"/>
+<wire x1="375.92" y1="88.9" x2="378.46" y2="88.9" width="0.1524" layer="91"/>
+<wire x1="378.46" y1="88.9" x2="378.46" y2="78.74" width="0.1524" layer="91"/>
 <wire x1="378.46" y1="68.58" x2="378.46" y2="71.12" width="0.1524" layer="91"/>
 <wire x1="378.46" y1="71.12" x2="378.46" y2="78.74" width="0.1524" layer="91"/>
 <wire x1="373.38" y1="68.58" x2="378.46" y2="68.58" width="0.1524" layer="91"/>
