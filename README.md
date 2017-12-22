@@ -1,8 +1,7 @@
-Freetronics EtherMega R3
-========================
-Copyright 2011-2012 Freetronics Pty Ltd  
-Freetronics site:  www.freetronics.com  
-Freetronics email: info@freetronics.com  
+EtherMega R3
+============
+Portions copyright 2011-2013 Freetronics Pty Ltd www.freetronics.com.au  
+Portions copyright 2017 SuperHouse Automation Pty Ltd www.superhouse.tv  
 
 The EtherMega R3 is a 100% Arduino-compatible board based on the existing
 Mega2560, but with improvements and updates for features and ease of
@@ -18,9 +17,9 @@ Features:
  * Overlay guide where you need it (both top and bottom)
  * D13 pin works for everything
 
-You can view more at our product page at:
+You can learn more at:
 
-  http://www.freetronics.com/ethermega
+  https://www.superhouse.tv/ethermega
 
 
 INSTALLATION
